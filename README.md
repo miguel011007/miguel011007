@@ -1,16 +1,13 @@
-## Hi there 👋
+**bem vindo ao meu perfil**
 
-<!--
-**miguel011007/miguel011007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é 
 
-Here are some ideas to get you started:
+estou estuando no [Alura](https://alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+estou me desenvolvendo na linguagem do javaScipt
+
+utilizo esse espaço para me organizar e irei compatilhar os meus projetos 
+
+![](https://media1.tenor.com/m/J1jNpBUkqkYAAAAC/cr7-calma.gif)
+
+![](https://media1.tenor.com/m/xr-HJ_EtdggAAAAC/cr7eu-sou-melhor.gif)
